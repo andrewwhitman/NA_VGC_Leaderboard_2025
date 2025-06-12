@@ -16,7 +16,7 @@ Championship Points (CP) are updated at the end of each round of NAIC. There are
 
 Using the [spreadsheet](https://docs.google.com/spreadsheets/d/1KlGSuI2w0KvsDAHs5fGnXiD6XsA7p0upouIN9PukFk0/edit?gid=831782724#gid=831782724) created and maintained by Austin Le, pre-NAIC CP totals and major bfl totals are used to achieve #2. The leaderboard covers the top 300 in NA, including all Automatic Qualifiers. Because of the bfl, only the 5 highest CP-earning major finishes are allowed to contribute to each competitor's final total. The following equation shows how the new total is calculated.
 
-$$ CPpostNAIC = min(CPawardedNAIC - CPlowestMajorBFL, 0) + CPpreNAIC $$
+$$ CPpostNAIC = max(CPawardedNAIC - CPlowestMajorBFL, 0) + CPpreNAIC $$
 
 The CP awarded at NAIC is meant to be cautiously predictive of the actual CP earned at NAIC. This means that it will fluctuate slightly, but it is not intended to vary drastically round by round. The further along in the tourney, the more accurate the CP awarded becomes. It is also not intended to be a representation of the minimum CP earned given a competitor's record and placement. The Qualification status is much more conservative and handles such scenarios. A round by round breakdown of how CP is awarded is below.
 
