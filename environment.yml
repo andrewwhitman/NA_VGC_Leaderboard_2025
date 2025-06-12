@@ -1,0 +1,17 @@
+name: naic25
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - pyarrow
+  - python=3.11 
+  - voila
+  - itables
+  - pip:
+    - ploomber-cloud
+prefix: C:\Users\whitm\Anaconda3\envs\naic25
