@@ -1,0 +1,10 @@
+{
+    "id": "broken-brook-9097",
+    "type": "voila",
+    "labels": [],
+    "resources": {
+        "cpu": 0.5,
+        "ram": 1,
+        "gpu": 0
+    }
+}
