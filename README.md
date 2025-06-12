@@ -102,6 +102,11 @@ The bar is determined as follows:
 - Rounds 12 through Top Cut
   - The bar is recalculated, but the range is refined. Its lowest is a dependent on how many AQ spots can effectively move the bar down. And its highest is a dependent on how many spots can still be earned that don't require an AQ invitation.
 
+
+![image](https://github.com/user-attachments/assets/cd9e5bf6-cc5f-4629-9447-955319c4f857)
+
+The top 75 bar and its range is illustrated by the blue highlighted row and red highlighted rows, respectively.
+
 A player's best and worst case CP totals are determined by the best/worst they can do given their record. These won't be enumerated here.
 
 Once these factors are calculated, then the qualification status is determined by:
