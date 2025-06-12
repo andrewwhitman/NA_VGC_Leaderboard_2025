@@ -84,7 +84,9 @@ Travel awards are earned by the top 12 and then next 4 competitors on the leader
 The qualification status of competitors who do not earn an AQ invitation depends on their final standing on the leaderboard. The top 75 non-AQ earn an invitation to Worlds. The following three emojis represent a competitor's qualification status:
 
 ✅ Certain or Very Likely Qualification
+
 ❔ Uncertain Qualification
+
 ❌ Very Unlikely or Impossible Qualification
 
 Each competitor will receive one of these three statuses. ✅ and ❌ are intended to be roughly final. It would take a large swing of the bar for them to flip. The uncertain status (❔) is the default status of everyone on the leaderboard.
