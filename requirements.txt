@@ -3,4 +3,5 @@ jupyterlab==4.4.3
 matplotlib==3.10.3
 numpy==2.3.0
 pandas==2.3.0
+pyarrow==20.0.0
 voila==0.5.8
