@@ -102,7 +102,7 @@ The bar is determined as follows:
 - Rounds 6-11
   - Once standings data becomes incorporated into CP, the bar is recalculated, still with a range of +-20 CP.
 - Rounds 12 through Top Cut
-  - The bar is recalculated, but the range is refined. Its lowest is a dependent on how many AQ spots can effectively move the bar down. And its highest is a dependent on how many spots can still be earned that don't require an AQ invitation.
+  - The bar is recalculated, but the range is refined. Its lowest is dependent on how many AQ spots can effectively move the bar down. And its highest is dependent on how many spots can still be earned that don't require an AQ invitation.
 
 
 ![image](https://github.com/user-attachments/assets/cd9e5bf6-cc5f-4629-9447-955319c4f857)
