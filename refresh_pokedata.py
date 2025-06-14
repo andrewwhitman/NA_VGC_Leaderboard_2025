@@ -31,7 +31,7 @@ def extract_standings(standings_url):
 url_num = 49
 
 # round prefix
-prefix = 'R12_end' # 'R{x}_{begin/end}'
+prefix = 'R16_begin' # 'R{x}_{begin/end}'
 
 # load standings
 standings_df = extract_standings(f"https://pokedata.ovh/standingsVGC/00001{url_num}/masters/00001{url_num}_Masters.json?")
